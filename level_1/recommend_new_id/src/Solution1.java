@@ -99,10 +99,8 @@ public class Solution1 {
         // 7. 길이가 2자 이하라면 길이가 3이 될 때까지 마지막 문자를 반복해서 붙여준다.
         change = answer;
         if(change.length()<=2){
-            System.out.println("x");
             char last = answer.charAt(answer.length()-1);
             while(change.length() != 3){
-                System.out.println("x");
                 change+=last;
             }
         }

@@ -3,7 +3,7 @@ public class Solution_main {
         Solution1 sol = new Solution1();
         String s = "...!@BaT#*..y.abcdefghijklm)";
         s = "z-+.^.";
-        System.out.println(sol.solution(s));
+        System.out.println("추천 아이디: "+sol.solution(s));
 
     }
 }
