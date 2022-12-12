@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "level_1/get_declaration_result",
+        "MYAPP/src",
+        "level_1\\lotto_best_worst"
+    ]
+}
